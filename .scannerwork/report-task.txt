@@ -2,5 +2,5 @@ projectKey=Game
 serverUrl=http://15.206.81.219:9000
 serverVersion=9.9.5.90363
 dashboardUrl=http://15.206.81.219:9000/dashboard?id=Game
-ceTaskId=AY_SjymxMGC_ZpYN7_8L
-ceTaskUrl=http://15.206.81.219:9000/api/ce/task?id=AY_SjymxMGC_ZpYN7_8L
+ceTaskId=AY_SqmoTMGC_ZpYN7_8N
+ceTaskUrl=http://15.206.81.219:9000/api/ce/task?id=AY_SqmoTMGC_ZpYN7_8N
